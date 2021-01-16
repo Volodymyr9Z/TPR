@@ -1,0 +1,36 @@
+[
+  {
+    "phoneName": "Andriy Yarmolenko",
+    "price": 800,
+    "year": 2018,
+    "batteryCapacity": 2850,
+    "rating": 9
+  },
+  {
+    "phoneName": "Ruslan Malinovskiy ",
+    "price": 1200,
+    "year": 2020,
+    "batteryCapacity": 2850,
+    "rating": 10
+  },
+  {
+    "phoneName": "Viktor Tsygankov",
+    "price": 1150,
+    "year": 2020,
+    "batteryCapacity": 6000,
+    "rating": 10
+  },
+  {
+    "phoneName": "Oleksandr Zinchenko",
+    "price": 900,
+    "year": 2019,
+    "batteryCapacity": 6300,
+    "rating": 8
+  },
+  {
+    "phoneName": "Evgen Konoplyanka",
+    "price": 750,
+    "year": 2019,
+    "batteryCapacity": 5000,
+    "rating": 7
+  }

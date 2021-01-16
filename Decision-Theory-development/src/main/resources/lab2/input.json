@@ -1,0 +1,42 @@
+[
+  {
+    "variant": "A",
+    "factoryWorth": 900,
+    "annualIncome": 240,
+    "incomeProbability": 0.75,
+    "annualLoss": -60,
+    "lossProbability": 0.25,
+    "years": 5
+  },
+  {
+    "variant": "Б",
+    "factoryWorth": 300,
+    "annualIncome": 220,
+    "incomeProbability": 0.75,
+    "annualLoss": -40,
+    "lossProbability": 0.25,
+    "years": 5
+  },
+  {
+    "variant": "ВA",
+    "factoryWorth": 900,
+    "annualIncome": 240,
+    "incomeProbability": 0.85,
+    "annualLoss": -75,
+    "lossProbability": 0.15,
+    "buildingProbability": 0.85,
+    "notBuildingProbability": 0.15,
+    "years": 4
+  },
+  {
+    "variant": "ВБ",
+    "factoryWorth": 300,
+    "annualIncome": 220,
+    "incomeProbability": 0.85,
+    "annualLoss": -40,
+    "lossProbability": 0.15,
+    "buildingProbability": 0.85,
+    "notBuildingProbability": 0.15,
+    "years": 4
+  }
+]
